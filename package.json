@@ -1,0 +1,23 @@
+{
+  "name": "Node_Projects",
+  "version": "1.0.0",
+  "description": "Silly projects to better understanding of NodeJS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapitomasterDeveloper/Node_Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapitomasterDeveloper/Node_Projects/issues"
+  },
+  "homepage": "https://github.com/PapitomasterDeveloper/Node_Projects#readme",
+  "dependencies": {
+    "node": "^12.4.0"
+  }
+}
