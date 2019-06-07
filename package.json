@@ -19,6 +19,7 @@
   "homepage": "https://github.com/PapitomasterDeveloper/Node_Projects#readme",
   "dependencies": {
     "chalk": "^2.4.1",
-    "node": "^12.4.0"
+    "node": "^12.4.0",
+    "nodemon": "^1.19.1"
   }
 }
