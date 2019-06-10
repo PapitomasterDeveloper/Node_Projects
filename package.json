@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/PapitomasterDeveloper/Node_Projects/issues"
   },
-  "homepage": "https://github.com/PapitomasterDeveloper/Node_Projects#readme"
+  "homepage": "https://github.com/PapitomasterDeveloper/Node_Projects#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
